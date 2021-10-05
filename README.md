@@ -3,7 +3,7 @@
 
 ### `Discord`
 [![BenAI-bot Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=BenAI-bot&theme=dark&border_color=565656)](https://github.com/benwoo1110/BenAI-bot)
-[![dis_snek Repo](https://github-readme-stats.vercel.app/api/pin/?username=LordOfPolls&repo=dis_snek&theme=dark&border_color=565656)](https://github.com/LordOfPolls/dis_snek)
+[![dis_snek Repo](https://github-readme-stats.vercel.app/api/pin/?username=Discord-Snake-Pit&repo=Dis-Snek&theme=dark&border_color=565656)](https://github.com/LordOfPolls/dis_snek)
 
 ### `Minecraft`
 [![Multiverse Repo](https://github-readme-stats.vercel.app/api/pin/?username=Multiverse&repo=Multiverse-Core&theme=dark&border_color=565656)](https://github.com/Multiverse)
