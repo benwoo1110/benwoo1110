@@ -31,6 +31,7 @@
 
 ### `Misc API Libs`
 [![testcase-maker Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=testcase-maker&theme=dark&border_color=565656)](https://github.com/benwoo1110/testcase-maker)
+[![purposefully-malicious Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=purposefully-malicious&theme=dark&border_color=565656)](https://github.com/benwoo1110/purposefully-malicious)
 
 ### `Statistics`
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=benwoo1110&show_icons=true&theme=dark&icon_color=FF0000&border_color=565656)
