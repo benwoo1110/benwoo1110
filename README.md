@@ -12,7 +12,7 @@
 
 ### `Website`
 [![SSD-Alkolq Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=SSD-Alkolq&theme=dark&border_color=565656)](https://github.com/benwoo1110/SSD-Alkolq)
-[![tourist-attractions-web Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=tourist-attractions-website&theme=dark&border_color=565656)](https://github.com/benwoo1110/tourist-attractions-web)
+[![tourist-attractions-website Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=tourist-attractions-website&theme=dark&border_color=565656)](https://github.com/benwoo1110/Tourist-Attractions-Website)
 
 ### `Mobile App`
 [![Sharecipe-App Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=Sharecipe-App&theme=dark&border_color=565656)](https://github.com/benwoo1110/Sharecipe-App)
