@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I am Ben! 👋</h1>
 
 ### `Discord API`
-[![Dis-Snek Repo](https://github-readme-stats.vercel.app/api/pin/?username=Discord-Snake-Pit&repo=Dis-Snek&theme=dark&border_color=565656)](https://github.com/Discord-Snake-Pit/Dis-Snek)
-[![discord-interactions Repo](https://github-readme-stats.vercel.app/api/pin/?username=goverfl0w&repo=discord-interactions&theme=dark&border_color=565656)](https://github.com/goverfl0w/discord-interactions)
+[![NAFF Repo](https://github-readme-stats.vercel.app/api/pin/?username=NAFTeam&repo=NAFF&theme=dark&border_color=565656)](https://github.com/NAFTeam/NAFF)
+[![discord-interactions Repo](https://github-readme-stats.vercel.app/api/pin/?username=interactions-py&repo=library&theme=dark&border_color=565656)](https://github.com/interactions-py/library)
 
 ### `Minecraft Plugins`
 [![FlyPerms Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=FlyPerms&theme=dark&border_color=565656)](https://github.com/benwoo1110/FlyPerms)
