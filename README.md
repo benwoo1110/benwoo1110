@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I am Benedict, a cybersecurity student with a huge passion for software development. Throughout the years I worked on various open-source projects such as Minecraft plugins, Discord bots, FlipperZero plugins, and many more to come!
+I am Benedict, a Computer Science student with a huge passion for software development. Throughout the years I worked on various open-source projects such as Minecraft plugins, Mobile applications, Discord bots, FlipperZero apps, and many more to come!
 
 ## 🔒 `Cybersecurity`
 [![purposefully-malicious Repo](https://github-readme-stats.vercel.app/api/pin/?username=benwoo1110&repo=purposefully-malicious&theme=dark&border_color=000000)](https://github.com/benwoo1110/purposefully-malicious)
