@@ -17,7 +17,6 @@ I am Benedict, a Computer Science student with a huge passion for software devel
 [![cryptography-GUI Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=cryptography-GUI&theme=dark&border_color=000000)](https://github.com/benwoo1110/cryptography-GUI)
 [![WithSecure-CTF-Writeup Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=WithSecure-CTF-Writeup&theme=dark&border_color=000000)](https://github.com/benwoo1110/WithSecure-CTF-Writeup)
 [![libprocesshider Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=libprocesshider&theme=dark&border_color=000000)](https://github.com/benwoo1110/libprocesshider)
-[![ycep-2021 Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=NullSec-SIG&repo=ycep-2021&theme=dark&border_color=000000)](https://github.com/NullSec-SIG/ycep-2021)
 
 ## `FlipperZero`
 [![python_playground-FlipperZero Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=python_playground-FlipperZero&theme=dark&border_color=000000)](https://github.com/benwoo1110/python_playground-FlipperZero)
