@@ -26,7 +26,7 @@ I am Benedict, a Computer Science student with a huge passion for software devel
 [![rps-FlipperZero Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=rps-FlipperZero&theme=dark&border_color=000000)](https://github.com/benwoo1110/rps-FlipperZero)
 
 ## `Minecraft Plugins`
-[![FlyPerms Repo](https://github-readme-stats-3uf9.vercel.appp/api/pin/?username=benwoo1110&repo=FlyPerms&theme=dark&border_color=000000)](https://github.com/benwoo1110/FlyPerms)
+[![FlyPerms Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=FlyPerms&theme=dark&border_color=000000)](https://github.com/benwoo1110/FlyPerms)
 [![Multiverse Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=Multiverse&repo=Multiverse-Core&theme=dark&border_color=000000)](https://github.com/Multiverse)
 [![Multiverse-CommandDestination Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=Multiverse-CommandDestination&theme=dark&border_color=000000)](https://github.com/benwoo1110/Multiverse-CommandDestination)
 [![Multiverse-Patches Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=Multiverse-Patches&theme=dark&border_color=000000)](https://github.com/benwoo1110/Multiverse-Patches)
