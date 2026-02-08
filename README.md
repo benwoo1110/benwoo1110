@@ -13,7 +13,6 @@ I am Benedict, a Computer Science student with a huge passion for software devel
 
 ## 🔒 `Cybersecurity`
 [![purposefully-malicious Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=purposefully-malicious&theme=dark&border_color=000000)](https://github.com/benwoo1110/purposefully-malicious)
-[![The-Malware-Toolbox Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=Malware-Toolbox&repo=The-Malware-Toolbox&theme=dark&border_color=000000)](https://github.com/Malware-Toolbox/The-Malware-Toolbox)
 [![CryptographyApp Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=CryptographyApp&theme=dark&border_color=000000)](https://github.com/benwoo1110/CryptographyApp)
 [![cryptography-GUI Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=cryptography-GUI&theme=dark&border_color=000000)](https://github.com/benwoo1110/cryptography-GUI)
 [![WithSecure-CTF-Writeup Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=WithSecure-CTF-Writeup&theme=dark&border_color=000000)](https://github.com/benwoo1110/WithSecure-CTF-Writeup)
