@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ben Woo&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 63, Total Commits  (last year) : 630, Total PRs: 1078, Total Issues: 131, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 60, Total Commits  (last year) : 631, Total PRs: 1011, Total Issues: 106, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 47.757182017152275;
+        stroke-dashoffset: 49.30215795342298;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >63</text>
+      >60</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >630</text>
+      >631</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >1.1k</text>
+      >1k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >131</text>
+      >106</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >21</text>
+      >18</text>
     </g>
   </g>
     </svg>
