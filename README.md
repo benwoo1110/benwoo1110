@@ -30,6 +30,14 @@ I am Benedict, a Computer Science student with a huge passion for software devel
 [![Multiverse-Patches Repo](./cards/benwoo1110-Multiverse-Patches.svg)](https://github.com/benwoo1110/Multiverse-Patches)
 [![CommentedConfiguration Repo](./cards/TownyAdvanced-CommentedConfiguration.svg)](https://github.com/TownyAdvanced/CommentedConfiguration)
 
+## `GitHub Actions`
+[![artifact-comment-action Repo](./cards/benwoo1110-artifact-comment-action.svg)](https://github.com/benwoo1110/artifact-comment-action)
+[![dbo-upload-action Repo](./cards/benwoo1110-dbo-upload-action.svg)](https://github.com/benwoo1110/dbo-upload-action)
+[![hangar-upload-action Repo](./cards/benwoo1110-hangar-upload-action.svg)](https://github.com/benwoo1110/hangar-upload-action)
+[![modrinth-upload-action Repo](./cards/benwoo1110-modrinth-upload-action.svg)](https://github.com/benwoo1110/modrinth-upload-action)
+[![release-on-push-action Repo](./cards/benwoo1110-release-on-push-action.svg)](https://github.com/benwoo1110/release-on-push-action)
+[![semantic-release-action Repo](./cards/benwoo1110-semantic-release-action.svg)](https://github.com/benwoo1110/semantic-release-action)
+
 ## `Discord Bot`
 [![discord-interactions Repo](./cards/interactions-py-library.svg)](https://github.com/interactions-py/library)
 [![NAFF Repo](./cards/NAFTeam-NAFF.svg)](https://github.com/NAFTeam/NAFF)
