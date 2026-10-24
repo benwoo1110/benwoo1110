@@ -1,0 +1,14 @@
+{
+  "name": "benwoo1110-profile-cards",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cards": "node scripts/generate-cards.mjs"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@stats-organization/github-readme-stats-core": "2.2.0"
+  }
+}

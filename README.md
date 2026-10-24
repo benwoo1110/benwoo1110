@@ -12,49 +12,49 @@
 I am Benedict, a Computer Science student with a huge passion for software development. Throughout the years I worked on various open-source projects such as Minecraft plugins, Mobile applications, Discord bots, FlipperZero apps, and many more to come!
 
 ## 🔒 `Cybersecurity`
-[![purposefully-malicious Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=purposefully-malicious&theme=dark&border_color=000000)](https://github.com/benwoo1110/purposefully-malicious)
-[![CryptographyApp Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=CryptographyApp&theme=dark&border_color=000000)](https://github.com/benwoo1110/CryptographyApp)
-[![cryptography-GUI Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=cryptography-GUI&theme=dark&border_color=000000)](https://github.com/benwoo1110/cryptography-GUI)
-[![WithSecure-CTF-Writeup Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=WithSecure-CTF-Writeup&theme=dark&border_color=000000)](https://github.com/benwoo1110/WithSecure-CTF-Writeup)
-[![libprocesshider Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=libprocesshider&theme=dark&border_color=000000)](https://github.com/benwoo1110/libprocesshider)
+[![purposefully-malicious Repo](./cards/benwoo1110-purposefully-malicious.svg)](https://github.com/benwoo1110/purposefully-malicious)
+[![CryptographyApp Repo](./cards/benwoo1110-CryptographyApp.svg)](https://github.com/benwoo1110/CryptographyApp)
+[![cryptography-GUI Repo](./cards/benwoo1110-cryptography-GUI.svg)](https://github.com/benwoo1110/cryptography-GUI)
+[![WithSecure-CTF-Writeup Repo](./cards/benwoo1110-WithSecure-CTF-Writeup.svg)](https://github.com/benwoo1110/WithSecure-CTF-Writeup)
+[![libprocesshider Repo](./cards/benwoo1110-libprocesshider.svg)](https://github.com/benwoo1110/libprocesshider)
 
 ## `FlipperZero`
-[![python_playground-FlipperZero Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=python_playground-FlipperZero&theme=dark&border_color=000000)](https://github.com/benwoo1110/python_playground-FlipperZero)
-[![flipper_playground-Python Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=flipper_playground-Python&theme=dark&border_color=000000)](https://github.com/benwoo1110/flipper_playground-Python)
-[![rps-FlipperZero Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=rps-FlipperZero&theme=dark&border_color=000000)](https://github.com/benwoo1110/rps-FlipperZero)
+[![python_playground-FlipperZero Repo](./cards/benwoo1110-python_playground-FlipperZero.svg)](https://github.com/benwoo1110/python_playground-FlipperZero)
+[![flipper_playground-Python Repo](./cards/benwoo1110-flipper_playground-Python.svg)](https://github.com/benwoo1110/flipper_playground-Python)
+[![rps-FlipperZero Repo](./cards/benwoo1110-rps-FlipperZero.svg)](https://github.com/benwoo1110/rps-FlipperZero)
 
 ## `Minecraft Plugins`
-[![FlyPerms Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=FlyPerms&theme=dark&border_color=000000)](https://github.com/benwoo1110/FlyPerms)
-[![Multiverse Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=Multiverse&repo=Multiverse-Core&theme=dark&border_color=000000)](https://github.com/Multiverse)
-[![Multiverse-CommandDestination Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=Multiverse-CommandDestination&theme=dark&border_color=000000)](https://github.com/benwoo1110/Multiverse-CommandDestination)
-[![Multiverse-Patches Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=Multiverse-Patches&theme=dark&border_color=000000)](https://github.com/benwoo1110/Multiverse-Patches)
-[![CommentedConfiguration Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=TownyAdvanced&repo=CommentedConfiguration&theme=dark&border_color=000000)](https://github.com/TownyAdvanced/CommentedConfiguration)
+[![FlyPerms Repo](./cards/benwoo1110-FlyPerms.svg)](https://github.com/benwoo1110/FlyPerms)
+[![Multiverse Repo](./cards/Multiverse-Multiverse-Core.svg)](https://github.com/Multiverse/Multiverse-Core)
+[![Multiverse-CommandDestination Repo](./cards/benwoo1110-Multiverse-CommandDestination.svg)](https://github.com/benwoo1110/Multiverse-CommandDestination)
+[![Multiverse-Patches Repo](./cards/benwoo1110-Multiverse-Patches.svg)](https://github.com/benwoo1110/Multiverse-Patches)
+[![CommentedConfiguration Repo](./cards/TownyAdvanced-CommentedConfiguration.svg)](https://github.com/TownyAdvanced/CommentedConfiguration)
 
 ## `Discord Bot`
-[![discord-interactions Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=interactions-py&repo=library&theme=dark&border_color=000000)](https://github.com/interactions-py/library)
-[![NAFF Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=NAFTeam&repo=NAFF&theme=dark&border_color=000000)](https://github.com/NAFTeam/NAFF)
-[![bytehackz-discord-bot Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=np-overflow&repo=bytehackz-discord-bot&theme=dark&border_color=000000)](https://github.com/np-overflow/bytehackz-discord-bot)
+[![discord-interactions Repo](./cards/interactions-py-library.svg)](https://github.com/interactions-py/library)
+[![NAFF Repo](./cards/NAFTeam-NAFF.svg)](https://github.com/NAFTeam/NAFF)
+[![bytehackz-discord-bot Repo](./cards/np-overflow-bytehackz-discord-bot.svg)](https://github.com/np-overflow/bytehackz-discord-bot)
 
 ## `Web Development`
-[![SSD-Alkolq Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=SSD-Alkolq&theme=dark&border_color=000000)](https://github.com/benwoo1110/SSD-Alkolq)
-[![tourist-attractions-website Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=tourist-attractions-website&theme=dark&border_color=000000)](https://github.com/benwoo1110/Tourist-Attractions-Website)
+[![SSD-Alkolq Repo](./cards/benwoo1110-SSD-Alkolq.svg)](https://github.com/benwoo1110/SSD-Alkolq)
+[![tourist-attractions-website Repo](./cards/benwoo1110-tourist-attractions-website.svg)](https://github.com/benwoo1110/Tourist-Attractions-Website)
 
 ## `Mobile Applications`
-[![Sharecipe-App Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=Sharecipe-App&theme=dark&border_color=000000)](https://github.com/benwoo1110/Sharecipe-App)
-[![ExploreSST-ReactNative Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=ExploreSST-ReactNative&theme=dark&border_color=000000)](https://github.com/benwoo1110/ExploreSST-ReactNative)
+[![Sharecipe-App Repo](./cards/benwoo1110-Sharecipe-App.svg)](https://github.com/benwoo1110/Sharecipe-App)
+[![ExploreSST-ReactNative Repo](./cards/benwoo1110-ExploreSST-ReactNative.svg)](https://github.com/benwoo1110/ExploreSST-ReactNative)
 
 ## `Windows Applications`
-[![COVID-Monitoring-System Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=COVID-Monitoring-System&theme=dark&border_color=000000)](https://github.com/benwoo1110/COVID-Monitoring-System)
-[![Ratventure Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=CalculatorApp&theme=dark&border_color=000000)](https://github.com/benwoo1110/CalculatorApp)
+[![COVID-Monitoring-System Repo](./cards/benwoo1110-COVID-Monitoring-System.svg)](https://github.com/benwoo1110/COVID-Monitoring-System)
+[![CalculatorApp Repo](./cards/benwoo1110-CalculatorApp.svg)](https://github.com/benwoo1110/CalculatorApp)
 
 ## `Games`
-[![Ratventure Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=Ratventure&theme=dark&border_color=000000)](https://github.com/benwoo1110/Ratventure)
+[![Ratventure Repo](./cards/benwoo1110-Ratventure.svg)](https://github.com/benwoo1110/Ratventure)
 
 ## `Other cool stuff`
-[![A-List-of-Sorts-v2 Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=A-List-of-Sorts-v2&theme=dark&border_color=000000)](https://github.com/benwoo1110/A-List-of-Sorts-v2)
-[![A-List-of-Sorts Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=A-List-of-Sorts&theme=dark&border_color=000000)](https://github.com/benwoo1110/A-List-of-Sorts)
-[![testcase-maker Repo](https://github-readme-stats-3uf9.vercel.app/api/pin/?username=benwoo1110&repo=testcase-maker&theme=dark&border_color=000000)](https://github.com/benwoo1110/testcase-maker)
+[![A-List-of-Sorts-v2 Repo](./cards/benwoo1110-A-List-of-Sorts-v2.svg)](https://github.com/benwoo1110/A-List-of-Sorts-v2)
+[![A-List-of-Sorts Repo](./cards/benwoo1110-A-List-of-Sorts.svg)](https://github.com/benwoo1110/A-List-of-Sorts)
+[![testcase-maker Repo](./cards/benwoo1110-testcase-maker.svg)](https://github.com/benwoo1110/testcase-maker)
 
 ## `Statistics`
-![GitHub stats](https://github-readme-stats-3uf9.vercel.app/api?username=benwoo1110&show_icons=true&theme=dark&icon_color=FF0000&border_color=000000)
-![Top Langs](https://github-readme-stats-3uf9.vercel.app/api/top-langs/?username=benwoo1110&layout=compact&theme=dark&border_color=000000)
+![GitHub stats](./cards/stats.svg)
+![Top Langs](./cards/top-langs.svg)
